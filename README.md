@@ -1,16 +1,14 @@
-# ClassifyDiscord
+\[  `# ClassifyDiscord
 
-Add short description of project here > 
+This is a discord bot that identifies images and tells you what they are.
+The bot is running on the laptop and the jetson is running the ai and they communicate over the network.
 
-![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
-
+a bot on the computer takes the image, sends it to the nano. The nano identifies it and then sends the answer back to the bot
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+follow the instructions on discordxcvjk+
 
-[View a video explanation here](video link)
+https://youtu.be/FNjkzrt4288
